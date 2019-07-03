@@ -2,6 +2,7 @@
 class Cat
 
   def initialize
+    Cat.new
   end
   attr_accessor :name
 end
