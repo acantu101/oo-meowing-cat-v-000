@@ -8,3 +8,5 @@ def meow
   self.meow
   puts "meow!"
 end
+
+end
